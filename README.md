@@ -1,2 +1,1 @@
-# M242
-Arduino
+# M242 - Arduino
